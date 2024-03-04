@@ -12,14 +12,14 @@ Creamos un programa en el que podrás:
 
 Ejecutar comandos principales de linux, tales como:
 
-###*clear           *history          *mkdir          *man
-###*#ls              *rm               *touch          *uname -a
-###*echo " "        *pwd              *ps             
+*clear           *history          *mkdir          *man
+*ls              *rm               *touch          *uname -a
+*echo " "        *pwd              *ps             
 
-####*Personalización de colores de la terminal y del panel izquierdo.
-####*Comandos predefinidos: pintar, tematica, personalizar, fiesta.
-####*Simulador de Paint integrado.
-####*Además, comando propios con los que podrás personalizar la terminal:
+*Además, comando propios con los que podrás personalizar la terminal:
 
 ###*fiesta          *pintar          *personalizar          *tematica
 
+*Personalización de colores de la terminal y del panel izquierdo.
+*Comandos predefinidos: pintar, tematica, personalizar, fiesta.
+*Simulador de Paint integrado.
