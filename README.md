@@ -16,10 +16,10 @@ Ejecutar comandos principales de linux, tales como:
 *ls              *rm               *touch          *uname -a
 *echo " "        *pwd              *ps             
 
-#Personalización de colores de la terminal y del panel izquierdo.
-#Comandos predefinidos: pintar, tematica, personalizar, fiesta.
-#Simulador de Paint integrado.
-#Además, comando propios con los que podrás personalizar la terminal:
+*Personalización de colores de la terminal y del panel izquierdo.
+*Comandos predefinidos: pintar, tematica, personalizar, fiesta.
+*Simulador de Paint integrado.
+*Además, comando propios con los que podrás personalizar la terminal:
 
 *fiesta          *pintar          *personalizar          *tematica
 
