@@ -21,5 +21,8 @@ Ejecutar comandos principales de linux, tales como:
 *Simulador de Paint integrado.
 *Además, comando propios con los que podrás personalizar la terminal:
 
-*fiesta          *pintar          *personalizar          *tematica
+*fiesta          
+*pintar          
+*personalizar          
+*tematica
 
